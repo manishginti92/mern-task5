@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Task 5 - MERN Project
 
-## Deployed Link
+## Deployed Link Netlify
 https://legendary-palmier-bdc2d3.netlify.app/
 ## GitHub Repo
-https://github.com/manishginti9/mern-task5
+https://github.com/manishginti92/mern-task5
